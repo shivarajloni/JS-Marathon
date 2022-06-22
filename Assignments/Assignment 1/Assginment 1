@@ -1,0 +1,24 @@
+1. Explain the use of JavaScript ( or What you can do using a JavaScript)?
+A: JavaScript is dynamic computer programming language, mostly used to develop web pages and make them interactive. JavaScript allows to load content into the document if and when the user needs it, without reloading the entire page. JavaScript is used both on client-side & server-side, hence improves the user Experience on the web pages by converting static page into interactive pages.
+
+2. What is the difference between client-side and server-side?
+A: Client-side means that the processing take place on the user's computer. It requires browsers to run the scripts on the client machine without involving any processing on the server.
+Examples: JavaScript, HTML, CSS, JQuery.
+Server-side: means that the processing takes place on a web server.
+Examples: PHP, Python , Ruby and Java
+
+3. What is Nodejs?
+A: Nodejs is an open-source, cross-platform runtime environment & library that is used for running web applications outside the clients browser. It is mainly used for server-side programming and backend API services. It is mostly used to build different applications like command line, web applications, real-time chat applications REST API server.
+
+4. Explain Scope in JavaScript?
+A: Scope in JavaScript defines accessibility of variables, objects & functions. JavaScript has function Scope, where each function creates a new scope, variables defined inside a function are not accessible from outside the function (outside the scope). basically there are 2 types global scope & local scope.
+
+5. JavaScript is asynchronous or synchronous.?
+A: JavaScript is a single-threaded, non-blocking, asynchronous, concurrent programming language with lots of flexibility.
+
+6. JavaScript is Single-threaded or Multi-threaded.?
+A: JavaScript is a Single-threaded, hence only 1 line of code can be executed at any given time.
+
+7. Explain DOM in your own word?
+A: DOM is a programming interface for HTML, It translates the content of an HTML document into a standardized object that functional programming languages like JS can easily access and modify.
+
